@@ -8,3 +8,6 @@ class RecapServerApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
